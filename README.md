@@ -2,6 +2,10 @@
 
 Test util for umi plugin.
 
+[![NPM version](https://img.shields.io/npm/v/test-umi-plugin.svg?style=flat)](https://npmjs.org/package/test-umi-plugin)
+[![Build Status](https://img.shields.io/travis/umijs/test-umi-plugin.svg?style=flat)](https://travis-ci.org/umijs/test-umi-plugin)
+[![NPM downloads](http://img.shields.io/npm/dm/test-umi-plugin.svg?style=flat)](https://npmjs.org/package/test-umi-plugin)
+
 ## Install
 
 Install as dev dependency.
