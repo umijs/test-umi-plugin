@@ -25,12 +25,12 @@ testUmiPlugin(options);
 
 ### fixtures
 
-* Type: String
+* Type: `String`
 
 ### basePort
 
-* Type: Number
-* Default: 12400
+* Type: `Number`
+* Default: `12400`
 
 ## LICENSE
 
