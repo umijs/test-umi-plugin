@@ -1,6 +1,6 @@
 {
   "name": "test-umi-plugin",
-  "version": "0.0.1-alpha.1",
+  "version": "0.1.0",
   "description": "Test util for umi plugin.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,9 @@
   "devDependencies": {
     "np": "^4.0.2"
   },
-  "keywords": ["umi"],
+  "keywords": [
+    "umi"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
